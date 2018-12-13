@@ -1,7 +1,7 @@
 # 思路：  
 直接调用parseInt()函数读取整数，如果超过范围则进行一些相关操作  
 
-```
+```javascript
 /**
  * @param {string} str
  * @return {number}
